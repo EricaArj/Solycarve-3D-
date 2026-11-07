@@ -1,4 +1,4 @@
-🍪 Solycarve 3D — Gerador Avançado de Cortadores de Biscoito
+#🍪 Solycarve 3D — Gerador Avançado de Cortadores de Biscoito
 
 Solycarve 3D é uma aplicação web interativa desenvolvida com Three.js e Tailwind CSS que permite converter qualquer foto, logo ou silhueta em um modelo tridimensional de alta precisão, totalmente otimizado para impressão 3D de cortadores de biscoito em PLA ou PETG.
 
