@@ -26,8 +26,7 @@ Exportação STL: Baixe o arquivo pronto para fatiar no seu software de impress�
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/solycarve-3d.git
-
+git clone 
 
 Abra a pasta do projeto.
 
